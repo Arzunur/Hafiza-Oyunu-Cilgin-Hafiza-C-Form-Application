@@ -1,0 +1,126 @@
+C:\Users\asus\Desktop\HafızaOyun\HafızaOyun\bin\Debug\HafızaOyun.exe.config
+C:\Users\asus\Desktop\HafızaOyun\HafızaOyun\bin\Debug\HafızaOyun.exe
+C:\Users\asus\Desktop\HafızaOyun\HafızaOyun\bin\Debug\HafızaOyun.pdb
+C:\Users\asus\Desktop\HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Desktop\HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.arayuzgiris.resources
+C:\Users\asus\Desktop\HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.Form1.resources
+C:\Users\asus\Desktop\HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.Properties.Resources.resources
+C:\Users\asus\Desktop\HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.exe
+C:\Users\asus\Desktop\HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.pdb
+C:\Users\asus\Desktop\HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.kolay.resources
+C:\Users\asus\Desktop\HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.orta.resources
+C:\Users\asus\Desktop\HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.zor.resources
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\bin\Debug\HafızaOyun.exe.config
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\bin\Debug\HafızaOyun.exe
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\bin\Debug\HafızaOyun.pdb
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.Form1.resources
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.kolay.resources
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.orta.resources
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.Properties.Resources.resources
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.zor.resources
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.exe
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.pdb
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.giris.resources
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.bizeUlasın.resources
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.nasılOynanır.resources
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.hakkımızda.resources
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.sifremiunuttum.resources
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.admin.resources
+C:\Users\asus\Desktop\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.adminskor.resources
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\bin\Debug\HafızaOyun.exe.config
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\bin\Debug\HafızaOyun.exe
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\bin\Debug\HafızaOyun.pdb
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.admin.resources
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.adminskor.resources
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.bizeUlasın.resources
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.Form1.resources
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.giris.resources
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.hakkımızda.resources
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.kolay.resources
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.nasılOynanır.resources
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.orta.resources
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.Properties.Resources.resources
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.sifremiunuttum.resources
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.zor.resources
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.exe
+C:\Users\asus\Desktop\Yedek\HAFIZAOYUN\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.pdb
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\bin\Debug\HafızaOyun.exe.config
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\bin\Debug\HafızaOyun.exe
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\bin\Debug\HafızaOyun.pdb
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.admin.resources
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.adminskor.resources
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.bizeUlasın.resources
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.Form1.resources
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.giris.resources
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.hakkımızda.resources
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.kolay.resources
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.nasılOynanır.resources
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.orta.resources
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.Properties.Resources.resources
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.sifremiunuttum.resources
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.zor.resources
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.exe
+C:\Users\asus\Desktop\1805\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.pdb
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\bin\Debug\HafızaOyun.exe.config
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\bin\Debug\HafızaOyun.exe
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\bin\Debug\HafızaOyun.pdb
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.admin.resources
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.adminskor.resources
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.bizeUlasın.resources
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.Form1.resources
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.giris.resources
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.hakkımızda.resources
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.kolay.resources
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.nasılOynanır.resources
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.orta.resources
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.Properties.Resources.resources
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.sifremiunuttum.resources
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.zor.resources
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.exe
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.pdb
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.oyunbitti2.resources
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.oyunbitti3.resources
+C:\Users\asus\Desktop\1805 - Kopya\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.cankalmadi.resources
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\bin\Debug\HafızaOyun.exe.config
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\bin\Debug\HafızaOyun.exe
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\bin\Debug\HafızaOyun.pdb
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.AssemblyReference.cache
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.admin.resources
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.adminskor.resources
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.bizeUlasın.resources
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.cankalmadi.resources
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.Form1.resources
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.giris.resources
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.hakkımızda.resources
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.kolay.resources
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.nasılOynanır.resources
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.orta.resources
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.oyunbitti2.resources
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.oyunbitti3.resources
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.Properties.Resources.resources
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.sifremiunuttum.resources
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.zor.resources
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.GenerateResource.cache
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.exe
+C:\Users\asus\Documents\GitHub\Projects\dnm\Cılgın Hafıza-Hafıza Eslestirme Oyunu\1HafızaOyun\HafızaOyun\obj\Debug\HafızaOyun.pdb
